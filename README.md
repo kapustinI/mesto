@@ -1,3 +1,7 @@
-# Проект: Место
-
-[Cсылка на проект](https://kapustinI.github.io/mesto)
+# Проект: Место2024
+Учебный проект ЯПракикум.
+[Cсылка на проект](https://kapustinI.github.io/mesto)  
+Установить зависимости:
+npm i  
+Запустить проект:
+npm run dev
